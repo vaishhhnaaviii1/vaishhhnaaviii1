@@ -34,7 +34,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vaishhhnaaviii1&show_icons=true&theme=radical" alt="Vaishnavi's GitHub Stats"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?vaishhhnaaviii1=yourusername&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishhhnaaviii1&layout=compact&theme=radical"/>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vaishhhnaaviii1&theme=radical"/>
 </p>
