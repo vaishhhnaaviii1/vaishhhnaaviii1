@@ -2,7 +2,7 @@
 
 <p align="center">
 🚀 B.Tech'27 | Web Developer | GSSoC'25 Campus Ambassador <br>
-🏆 Winner – Electrothon 7.0 (All-Girls Team) | NCSC District Finalist<br>
+🏆 Winner – Electrothon 7.0 (All-Girls Team) <br>
 💻 Passionate about Web Development & Open Source
 </p>
 
