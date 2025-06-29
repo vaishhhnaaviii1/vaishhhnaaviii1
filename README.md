@@ -36,7 +36,8 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishhhnaaviii1&layout=compact&theme=radical"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vaishhhnaaviii1&theme=radical"/>
+  <img src="https://streak-stats.demolab.com/?user=vaishhhnaaviii1&theme=radical" alt="GitHub Streak" />
+</p>
 </p>
 
 ---
