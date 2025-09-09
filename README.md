@@ -10,7 +10,7 @@ Currently exploring the world of **Web Development** and building projects to st
 <p align="center">
   
   <!-- Core Web -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" />
   <br/>
   <!-- Databases & Backend -->
   <img src="https://skillicons.dev/icons?i=mysql" />
