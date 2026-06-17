@@ -10,7 +10,7 @@
 
 ### Hey, I'm Vaishnavi Sharma 👋
 
-Pre-final year undergrad in in **Mathematics & Computing** @ NIT Hamirpur[cite: 1]
+Pre-final year undergrad in in **Mathematics & Computing** @ NIT Hamirpur
 Currently exploring the world of **Web Development** and building projects to strengthen my fundamentals.  
 
 </div>
@@ -34,17 +34,17 @@ Currently exploring the world of **Web Development** and building projects to st
 
 ## 🚀 Featured Projects
 
-* **Legal AI MVP** — Developing a backend-driven platform using FastAPI and PostgreSQL for structured case management and LLM-assisted summarization workflows.[cite: 1]
-* **Smart Hostel Management System** — Built interactive room-allocation interfaces using React.js and Node.js, integrated with a PostgreSQL database.[cite: 1]
-* **Electrothon 8.0 Web Portal** — Designed the Lead Organizers section using React and Tailwind CSS for a national-level hackathon platform supporting 2,000+ registrations.[cite: 1]
+* **Legal AI MVP** — Developing a backend-driven platform using FastAPI and PostgreSQL for structured case management and LLM-assisted summarization workflows.
+* **Smart Hostel Management System** — Built interactive room-allocation interfaces using React.js and Node.js, integrated with a PostgreSQL database.
+* **Electrothon 8.0 Web Portal** — Designed the Lead Organizers section using React and Tailwind CSS for a national-level hackathon platform supporting 2,000+ registrations.
 
 ---
 
 ## 🌟 Experience & Achievements
 
-* 🏆 **Hackathon Winner** — Secured the Best All-Girls Team Award at Electrothon 7.0 for building *DecentraVault*, a decentralized file storage platform.[cite: 1]
-* ⚡ **Executive Member @ Team SPEC** — Led organizational execution for Electrothon 8.0 (MLH Hackathon), coordinating between 50+ teams and managing logistics.[cite: 1]
-* 🌐 **Campus Ambassador @ GSSOC** — Promoted open-source culture by successfully onboarding 200+ students into the global 3-month GirlScript Summer of Code program.[cite: 1]
+* 🏆 **Hackathon Winner** — Secured the Best All-Girls Team Award at Electrothon 7.0 for building *DecentraVault*, a decentralized file storage platform.
+* ⚡ **Executive Member @ Team SPEC** — Led organizational execution for Electrothon 8.0 (MLH Hackathon), coordinating between 50+ teams and managing logistics.
+* 🌐 **Campus Ambassador @ GSSOC** — Promoted open-source culture by successfully onboarding 200+ students into the global 3-month GirlScript Summer of Code program.
 
 ---
 
